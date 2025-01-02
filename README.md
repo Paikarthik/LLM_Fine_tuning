@@ -9,8 +9,6 @@
 
 ## Approaches for Domain Adaptation of LLMs:  
 
-- Prompt Engineering:   
-  The practice of designing precise prompts to help artificial intelligence (AI) models produce accurate and relevant responses  
-
+- Prompt Engineering: The practice of designing precise prompts to help artificial intelligence (AI) models produce accurate and relevant responses  
   - LLM is an auto regressive model, the output is of the model is determined by the previous inputs, and the output is again feed as input.  
   - Therefore the output of the model can be altered to desired type by specially curating prompts  
