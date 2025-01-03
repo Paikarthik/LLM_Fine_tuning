@@ -1,4 +1,5 @@
-# LLM Fine-Tuning
+# LLM Fine-Tuning  
+This repository is about various methods for fine tuning or training a LLM from scratch.
 
 ## What is Fine-Tuning of LLM?
 Fine-tuning refers to the process of adapting a pre-trained language model (LLM) to a specific task or domain. By leveraging a pre-trained model that has been trained on a large, general-purpose dataset, fine-tuning customizes the model to work more effectively for specialized tasks or domains.
